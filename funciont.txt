@@ -1,0 +1,8 @@
+Nombre: Pepe
+ Rol: 
+Nombre: Pepe
+ Rol: 
+Nombre: Paco
+ Rol: Game Master
+Nombre: Gustavo
+ Rol: Apetepore
